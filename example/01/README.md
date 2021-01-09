@@ -6,4 +6,4 @@
 
 ## 修改package.json
 >修改入口文件改为 bin/www.js
->配置启动 dev: "nodemon bin/www.js"
+  配置启动 dev: "nodemon bin/www.js"
